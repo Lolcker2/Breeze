@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Breeze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+693ed2f545ce8a945728f96f8e716beb581aa85e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Breeze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Breeze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
