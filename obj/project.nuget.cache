@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8lXQCELaepQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eyal\\Desktop\\Locker\\Breeze\\Breeze\\Breeze.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eyal\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

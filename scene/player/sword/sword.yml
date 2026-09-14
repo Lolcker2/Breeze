@@ -1,0 +1,6 @@
+GameObject:
+Transform:  
+  self: World.player.sword.Transform
+  position: {x: 5, y: 7}
+  rotation: 0
+  scale: {x: 1, y: 1}

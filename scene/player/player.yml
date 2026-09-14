@@ -1,0 +1,6 @@
+GameObject:
+Transform:  
+  self: World.a
+  position: {x: 2, y: 2}
+  rotation: 2
+  scale: {x: 2, y: 2}

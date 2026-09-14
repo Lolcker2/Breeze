@@ -1,0 +1,17 @@
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\bin\Debug\net9.0\Breeze.exe
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\bin\Debug\net9.0\Breeze.deps.json
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\bin\Debug\net9.0\Breeze.runtimeconfig.json
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\bin\Debug\net9.0\Breeze.dll
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\bin\Debug\net9.0\Breeze.pdb
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\obj\Debug\net9.0\Breeze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\obj\Debug\net9.0\Breeze.AssemblyInfoInputs.cache
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\obj\Debug\net9.0\Breeze.AssemblyInfo.cs
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\obj\Debug\net9.0\Breeze.csproj.CoreCompileInputs.cache
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\obj\Debug\net9.0\Breeze.dll
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\obj\Debug\net9.0\refint\Breeze.dll
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\obj\Debug\net9.0\Breeze.pdb
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\obj\Debug\net9.0\Breeze.genruntimeconfig.cache
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\obj\Debug\net9.0\ref\Breeze.dll
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\bin\Debug\net9.0\YamlDotNet.dll
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\obj\Debug\net9.0\Breeze.csproj.AssemblyReference.cache
+C:\Users\Eyal\Desktop\Locker\Breeze\Breeze\obj\Debug\net9.0\Breeze.csproj.Up2Date
